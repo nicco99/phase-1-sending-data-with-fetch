@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,695 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 76
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 83
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 84
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 85
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 86
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 87
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 88
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 89
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 90
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 91
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 92
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 93
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 94
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 95
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 96
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 97
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 98
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 99
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 100
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 101
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 102
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 103
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 104
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 105
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 106
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 107
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 108
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 109
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 110
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 111
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 112
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 113
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 114
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 115
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 116
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 117
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 118
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 119
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 120
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 121
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 122
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 123
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 124
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 125
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 126
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 127
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 128
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 129
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 130
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 131
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 132
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 133
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 134
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 135
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 136
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 137
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 138
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 139
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 140
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 141
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 142
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 143
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 144
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 145
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 146
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 147
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 148
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 149
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 150
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 151
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 152
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 153
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 154
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 155
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 156
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 157
+    },
+    {
+      "name": "nicco",
+      "email": "nicholasnjeru@gmail.com",
+      "id": 158
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
